@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, I'm Nirjal
+Transitioning from pure biology to computational, with a tad bit of web dev creativity
 
-<!--
-**goodducky/goodducky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+                                                        ☆*:.｡.o(≧▽≦)o.｡.:*☆⠀⠀⠀⠀⠀⠀⠀
 
-Here are some ideas to get you started:
+### Passionate about 
+Bioinformatics | Computational Biology 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+
+**Programming**
+
+`Python` · `R` · `Bash/Linux` 
+
+
+**Bioinformatics & CADD**
+
+`UCSF Chimera` · `Docker` · `NCBI` · `BLAST` · `NextFlow`
+
+
+**Environments**  
+
+`RStudio` · `WSL2 Ubuntu` · `Git` · `GitHub` · `Linux`
+
+
+**Web Development**
+
+`HTML` · `JavaScript` · `CSS` · `React`
+
+
+<p align="center"> <img width="688" height="323" alt="image" src="https://github.com/user-attachments/assets/a933d450-02dd-4cd7-847a-66681c91275d" /> </p>
+
+### Bioinformatics Interests:
+Computational Genomics · AI-ML in Bioinformatics · Translational & Medical Informatics · Pharmacogenomics
+
+### Current Goals:
+- Stronger Tech Stack
+- Structural and Molecular modelling
+- Bioinformatics and computational genomics workflows
+- Build reproducible pipelines using Nextflow
+- explore AI/ML in Bioinformatics
+- contribute to open-source projects
+
+                                                              ≽(-˕ - ≼マ
