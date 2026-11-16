@@ -28,8 +28,6 @@ Bioinformatics | Computational Biology
 `HTML` · `JavaScript` · `CSS` · `React`
 
 
-<p align="center"> <img width="688" height="323" alt="image" src="https://github.com/user-attachments/assets/a933d450-02dd-4cd7-847a-66681c91275d" /> </p>
-
 ### Bioinformatics Interests:
 Computational Genomics · AI-ML in Bioinformatics · Translational & Medical Informatics · Pharmacogenomics
 
